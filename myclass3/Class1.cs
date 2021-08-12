@@ -4,5 +4,9 @@ namespace myclass3
 {
     public class Class1
     {
+        ///
+        ///123
+        ///////123
+        ///TTTT
     }
 }
