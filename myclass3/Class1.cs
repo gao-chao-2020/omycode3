@@ -8,5 +8,6 @@ namespace myclass3
         ///123
         ///////123
         ///TTTT
+        ///ASD
     }
 }
